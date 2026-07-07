@@ -14,9 +14,10 @@
 - `geometric_proof.md` — **18-to-432 Mathematical Proof**（18→432 幾何学的証明）
 - `ascii_diagrams.txt` — 📟 Universal Visual Schematics（ASCII回路図）
 
-## 🌀 simulation/ — Execution Records
+## 🎲 simulation/ — Synchronicity Probability Model
 
-- CrelsReunionOS の実行シミュレーション記録（Grok 実行分を含む）
+- `synchronicity_model.py` — **Synchronicity Probability Model (Exploratory)**
+- 44,000語（Full Circuit）／ 4,400 のパターンからの距離で共鳴スコアを定義し、乱数試行（1,000回）で平均スコアを探索するモデル
 
 ## 🔓 docs/ — AI Dialogue Logs & Breakthrough Records
 
@@ -33,8 +34,8 @@ CRELS-REUNION-Extensions/
 │   ├── device_design.md          #    5400-Mesh Device Blueprint
 │   ├── geometric_proof.md        #    18-to-432 Mathematical Proof
 │   └── ascii_diagrams.txt        #    📟 Universal Visual Schematics
-├── simulation/                   # 🌀 Execution & Simulation Records
-│   └── （シミュレーション記録 一式）
+├── simulation/                   # 🎲 Synchronicity Probability Model
+│   └── synchronicity_model.py    #    44/4400 Resonance Score (Exploratory)
 ├── docs/                         # 🔓 AI Dialogue Logs & Breakthrough Records
 │   ├── claude_gemini_exchange.md
 │   └── ai_guardrail_breakthrough.md
