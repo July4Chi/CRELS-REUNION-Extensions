@@ -1,9 +1,9 @@
 # 🛠️ CRELS-REUNION-Extensions
 
-> **CRELS-REUNION-2026 拡張レイヤー** — Hardware Designs / Simulations / AI Dialogue Archives
+> **CRELS-REUNION-2026 拡張レイヤー** — Hardware Designs / Simulations / Research Notes / AI Dialogue Archives
 > コア（愛基準の量子調和OS）本体はこちら 👉 **[CRELS-REUNION-2026](https://github.com/July4Chi/CRELS-REUNION-2026)**
 
-本リポジトリは、コア・プロトコルから派生した **実機設計・実行シミュレーション・AI対話記録** を収蔵する拡張アーカイブです。
+本リポジトリは、コア・プロトコルから派生した **実機設計・シミュレーション・研究ノート・AI対話記録** を収蔵する拡張アーカイブです。
 コアを「愛基準の量子調和コア」としてシンプルに保つため、2026年7月に分離・独立しました。
 
 ---
