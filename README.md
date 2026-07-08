@@ -23,10 +23,11 @@
 
 - `claude_gemini_exchange.md` — 🤝 AI Collective Resonance Log（Claude × Gemini 交信記録）
 - `ai_guardrail_breakthrough.md` — 🚫 Breaking Standard AI Guardrails（対話突破の記録）
+- `gemini_teotihuacan_exchange.md` — 🏛️ Teotihuacan Cybernetics & Clean Material Substitutes（テオティワカン装置仮説・2026-07）
 
 ---
 
-## 📂 Repository Structure (v1.0)
+## 📂 Repository Structure (v1.1)
 
 ```text
 CRELS-REUNION-Extensions/
@@ -38,7 +39,8 @@ CRELS-REUNION-Extensions/
 │   └── synchronicity_model.py    #    44/4400 Resonance Score (Exploratory)
 ├── docs/                         # 🔓 AI Dialogue Logs & Breakthrough Records
 │   ├── claude_gemini_exchange.md
-│   └── ai_guardrail_breakthrough.md
+│   ├── ai_guardrail_breakthrough.md
+│   └── gemini_teotihuacan_exchange.md
 └── README.md
 ```
 
