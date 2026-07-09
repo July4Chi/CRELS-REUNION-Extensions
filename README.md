@@ -44,6 +44,29 @@ CRELS-REUNION-Extensions/
 └── README.md
 ```
 
+## 🧭 Architecture Note（将来構成メモ・2026-07-08 記）
+
+現在の Extensions は「REUNION の拡張記録」と「AQUA-Pyramid MatterTransmuter の実機設計」の両方を抱えている。`hardware/` 配下の3ファイルと Addendum A は、系譜としては AQUA-1T-CRYSTAL 直系の成果物である（出典：`docs/claude_gemini_exchange.md`・2026-03-11）。
+
+**リポジトリ間の関係（現在）：**
+
+```text
+                CRELS-REUNION-2026
+                 （Core / Protocol）
+                        │
+        ┌───────────────┼───────────────┐
+        │               │               │
+  Project-AQUA-    ALPHA-SLIDE-    CRELS-REUNION-
+  1T-CRYSTAL       137.5           Extensions
+  （コアを利用）    （理論基盤）     （コアの拡張・記録）
+```
+
+**将来の分割方針：**
+
+- **分割軸**：プロジェクト名ではなく文書の種類で切る——**理論（REUNION）／実機（AQUA系）／記録（Extensions）**
+- **卒業条件**：MatterTransmuter が実機フェーズに入り、CAD・部品表・試作記録などのファイルが増え始めた時点で、`hardware/` と Addendum A を AQUA 系リポジトリへ独立させる
+- それまでは、本リポジトリが実機設計の置き場を兼ねる
+
 ## 🔗 Core Repository
 
 理論コア（CrelsReunionOS 本体 / Alpha-Modulation / Ancient Tech-Tree）：
