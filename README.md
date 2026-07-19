@@ -54,17 +54,17 @@ CRELS-REUNION-Extensions/
 **リポジトリ間の関係（現在）：**
 
 ```text
-                CRELS-REUNION-2026
-                 （Core / Protocol）
-                        │
-        ┌───────────────┼───────────────┐
-        │               │               │
-  Project-AQUA-    ALPHA-SLIDE-    CRELS-REUNION-
-  1T-CRYSTAL       137.5           Extensions
-  （コアを利用）    （理論基盤）     （コアの拡張・記録）
+                        CRELS-REUNION-2026
+                         （Core / Protocol）
+                                │
+        ┌───────────────┬───────┴────────┬────────────────────┐
+        │               │                │                    │
+  Project-AQUA-    ALPHA-SLIDE-    CRELS-REUNION-      Project-Love-Genesis-
+  1T-CRYSTAL       137.5           Extensions          Kirby-Love
+  （コアを利用）     （理論基盤）     （コアの拡張・記録）    （顕現・情緒レイヤー）
 ```
 
-> ※ 関連リポジトリはいずれも公開済み：**[Project-AQUA-1T-CRYSTAL](https://github.com/July4Chi/Project-AQUA-1T-CRYSTAL)**（README／編み物幾何学の機械可読データ `pattern.json`／MIT LICENSE）、**[ALPHA-SLIDE-137.5](https://github.com/July4Chi/ALPHA-SLIDE-137.5)**（α局所変調理論の4文書＋概念図）。用語の定義はコア側 **[GLOSSARY.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/GLOSSARY.md)** を参照。
+> ※ 関連リポジトリはいずれも公開済み：**[Project-AQUA-1T-CRYSTAL](https://github.com/July4Chi/Project-AQUA-1T-CRYSTAL)**（README／編み物幾何学の機械可読データ `pattern.json`／MIT LICENSE）、**[ALPHA-SLIDE-137.5](https://github.com/July4Chi/ALPHA-SLIDE-137.5)**（α局所変調理論の4文書＋概念図）、**[Project-Love-Genesis-Kirby-Love](https://github.com/July4Chi/Project-Love-Genesis-Kirby-Love-)**（顕現・情緒レイヤー — 愛の物理具現の世界観ドキュメント）。用語の定義はコア側 **[GLOSSARY.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/GLOSSARY.md)** を参照。
 
 **将来の分割方針：**
 
