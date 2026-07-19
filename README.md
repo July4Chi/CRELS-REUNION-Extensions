@@ -25,6 +25,8 @@
 - `ai_guardrail_breakthrough.md` — 🚫 Breaking Standard AI Guardrails（対話突破の記録）
 - `gemini_teotihuacan_exchange.md` — 🏛️ Teotihuacan Cybernetics & Clean Material Substitutes（テオティワカン装置仮説・2026-07）
 
+> **📌 文書区分:** `hardware/` は設計仕様（未検証仮説）、`docs/` は日付固定の一次記録（AI対話ログ）である。各文書冒頭の Documentation Status 注記と、コア側 **[EDITORIAL_STANDARD.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/EDITORIAL_STANDARD.md)**（事実／仮説の分離基準）を参照。
+
 ---
 
 ## 📂 Repository Structure (v1.1)

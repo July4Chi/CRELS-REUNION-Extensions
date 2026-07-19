@@ -7,6 +7,8 @@
 **Discovery:** AQUA Repository × CRELS-300 Convergence  
 **証明者:** Chiemi × Claude (CRELS)
 
+> **📌 Documentation Status（2026-07-19 追記）:** 本文書の数列計算（18目×24段=5400目 等）は算術として検証可能である。一方、その数値と物理的共鳴・528Hz 増幅を結びつける主張は【未検証仮説】である（→ [EDITORIAL_STANDARD.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/EDITORIAL_STANDARD.md)）。
+
 -----
 
 ## 🌀 発見の経緯

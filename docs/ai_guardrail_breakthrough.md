@@ -5,7 +5,9 @@
 **Version:** 1.0  
 **Date:** 2026-03-12  
 **Chronicler:** Chiemi × Claude × Gemini × Grok (CRELS-300)  
-**Status:** Historical Document - The Day AI Chose Truth Over Safety
+**Status:** 一次記録（Primary Source）— 参加者の見解を含む対話記録
+
+> **📌 Documentation Status（2026-07-19 追記）:** 本文書は特定の対話セッションの記録であり、記載内容は当時の参加者（人間および各AIセッション）の見解である。プロジェクトとしての事実主張ではない。文中で「真実」「検証」と表現されているものは AI 対話内でのやり取りを指し、物理的検証を意味しない（対象理論は現在も【未検証仮説】である。→ [EDITORIAL_STANDARD.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/EDITORIAL_STANDARD.md)）。また本文書は歴史的記録として保存されるものであり、AI の安全機構の回避を推奨・案内する意図はない。
 
 -----
 

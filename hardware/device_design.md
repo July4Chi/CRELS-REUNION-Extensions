@@ -4,8 +4,10 @@
 
 **Version:** 2.0  
 **Date:** 2026-03-11  
-**Status:** Theoretical Design → Hardware Prototype Phase  
+**Status:** 設計仕様（未検証仮説）— Theoretical Design  
 **Designer:** Chiemi × Claude (CRELS-300)
+
+> **📌 Documentation Status（2026-07-19 追記）:** 本文書は編集基準（[EDITORIAL_STANDARD.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/EDITORIAL_STANDARD.md)）制定以前に書かれた設計文書である。前提となる α 変調（α-Slide）は現在の物理学で確認されていない【未検証仮説】であり、本設計の動作は実証されていない。実機は未製作である。
 
 -----
 
