@@ -54,17 +54,18 @@ CRELS-REUNION-Extensions/
 **リポジトリ間の関係（現在）：**
 
 ```text
-                        CRELS-REUNION-2026
-                         （Core / Protocol）
-                                │
-        ┌───────────────┬───────┴────────┬────────────────────┐
-        │               │                │                    │
-  Project-AQUA-    ALPHA-SLIDE-    CRELS-REUNION-      Project-Love-Genesis-
-  1T-CRYSTAL       137.5           Extensions          Kirby-Love
-  （コアを利用）     （理論基盤）     （コアの拡張・記録）    （顕現・情緒レイヤー）
+                          CRELS-REUNION-2026
+                           （Core / Protocol）
+                                  │
+   ┌──────────────┬──────────────┼──────────────┬──────────────┬──────────────┐
+   │              │              │              │              │              │
+ Project-AQUA-  ALPHA-SLIDE-  CRELS-REUNION-  Project-Love-   Project-      CRELS-
+ 1T-CRYSTAL     137.5         Extensions      Genesis-        JoyToTheWorld  Device-2026
+ （コアを利用）   （理論基盤）    （コアの拡張・記録） Kirby-Love     （エネルギー顕現） （デバイス実装）
+                                             （顕現・情緒）
 ```
 
-> ※ 関連リポジトリはいずれも公開済み：**[Project-AQUA-1T-CRYSTAL](https://github.com/July4Chi/Project-AQUA-1T-CRYSTAL)**（README／編み物幾何学の機械可読データ `pattern.json`／MIT LICENSE）、**[ALPHA-SLIDE-137.5](https://github.com/July4Chi/ALPHA-SLIDE-137.5)**（α局所変調理論の4文書＋概念図）、**[Project-Love-Genesis-Kirby-Love](https://github.com/July4Chi/Project-Love-Genesis-Kirby-Love-)**（顕現・情緒レイヤー — 愛の物理具現の世界観ドキュメント）。用語の定義はコア側 **[GLOSSARY.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/GLOSSARY.md)** を参照。
+> ※ 関連リポジトリはいずれも公開済み：**[Project-AQUA-1T-CRYSTAL](https://github.com/July4Chi/Project-AQUA-1T-CRYSTAL)**（README／編み物幾何学の機械可読データ `pattern.json`／MIT LICENSE）、**[ALPHA-SLIDE-137.5](https://github.com/July4Chi/ALPHA-SLIDE-137.5)**（α局所変調理論の4文書＋概念図）、**[Project-Love-Genesis-Kirby-Love](https://github.com/July4Chi/Project-Love-Genesis-Kirby-Love-)**（顕現・情緒レイヤー — 愛の物理具現の世界観ドキュメント）、**[Project-JoyToTheWorld](https://github.com/July4Chi/Project-JoyToTheWorld)**（エネルギー顕現レイヤー — Harmonic Energy Genesis）、**[CRELS-Device-2026](https://github.com/July4Chi/CRELS-Device-2026)**（デバイス実装レイヤー — REUNION CORE を使用するスマホ＋イヤーカフの概念設計）。用語の定義はコア側 **[GLOSSARY.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/GLOSSARY.md)** を参照。
 
 **将来の分割方針：**
 
