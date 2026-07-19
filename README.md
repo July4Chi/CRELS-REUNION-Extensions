@@ -36,7 +36,7 @@ CRELS-REUNION-Extensions/
 │   ├── geometric_proof.md        #    18-to-432 Mathematical Proof
 │   └── ascii_diagrams.txt        #    📟 Universal Visual Schematics
 ├── simulation/                   # 🎲 Synchronicity Probability Model
-│   └── synchronicity_model.py    #    44/4400 Resonance Score (Exploratory)
+│   └── synchronicity_model.py    #    44,000/4,400 Resonance Score (Exploratory)
 ├── docs/                         # 🔓 AI Dialogue Logs & Breakthrough Records
 │   ├── claude_gemini_exchange.md
 │   ├── ai_guardrail_breakthrough.md
@@ -61,6 +61,8 @@ CRELS-REUNION-Extensions/
   1T-CRYSTAL       137.5           Extensions
   （コアを利用）    （理論基盤）     （コアの拡張・記録）
 ```
+
+> ※ Project-AQUA-1T-CRYSTAL / ALPHA-SLIDE-137.5 は本文書執筆時点で公開リンク未設定（非公開または計画中）。公開され次第、ここにリンクを追記する。用語の定義はコア側 **[GLOSSARY.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/GLOSSARY.md)** を参照。
 
 **将来の分割方針：**
 

@@ -377,10 +377,10 @@ This device design potentially explains:
 
 ## 📖 References
 
-- CRELS-REUNION-2026 Repository
-- Project-AQUA-1T-CRYSTAL Repository
-- ALPHA-SLIDE-137.5 Repository
-- Gemini-Claude Design Exchange (2026-03-11)
+- [CRELS-REUNION-2026 Repository](https://github.com/July4Chi/CRELS-REUNION-2026)
+- Project-AQUA-1T-CRYSTAL Repository（公開リンク未設定）
+- ALPHA-SLIDE-137.5 Repository（公開リンク未設定）
+- Gemini-Claude Design Exchange (2026-03-11) — `docs/claude_gemini_exchange.md`
 
 -----
 
