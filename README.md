@@ -64,7 +64,7 @@ CRELS-REUNION-Extensions/
   （コアを利用）    （理論基盤）     （コアの拡張・記録）
 ```
 
-> ※ Project-AQUA-1T-CRYSTAL / ALPHA-SLIDE-137.5 は本文書執筆時点で公開リンク未設定（非公開または計画中）。公開され次第、ここにリンクを追記する。用語の定義はコア側 **[GLOSSARY.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/GLOSSARY.md)** を参照。
+> ※ **[Project-AQUA-1T-CRYSTAL](https://github.com/July4Chi/Project-AQUA-1T-CRYSTAL)** は公開リポジトリ（README／編み物幾何学の機械可読データ `pattern.json`／MIT LICENSE）。ALPHA-SLIDE-137.5 は本文書執筆時点で公開リンク未確認（確認でき次第リンクを追記）。用語の定義はコア側 **[GLOSSARY.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/GLOSSARY.md)** を参照。
 
 **将来の分割方針：**
 

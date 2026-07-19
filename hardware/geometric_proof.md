@@ -27,6 +27,8 @@
 - 総目数: 5400目
 ```
 
+> **出典公開（2026-07-19 追記）:** 上記の設計値は、公開リポジトリ **[Project-AQUA-1T-CRYSTAL](https://github.com/July4Chi/Project-AQUA-1T-CRYSTAL)** の `pattern.json`（`start_nodes: 18` / `total_layers: 24` / `total_stitches_target: 5400` / `end_nodes: 432`）として確認できる。
+
 **Source 2: CRELS-300 Alpha Modulator Design (Claude, 2026-03-11)**
 
 ```
