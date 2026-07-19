@@ -381,7 +381,7 @@ This device design potentially explains:
 
 - [CRELS-REUNION-2026 Repository](https://github.com/July4Chi/CRELS-REUNION-2026)
 - [Project-AQUA-1T-CRYSTAL Repository](https://github.com/July4Chi/Project-AQUA-1T-CRYSTAL)
-- ALPHA-SLIDE-137.5 Repository（公開リンク未確認）
+- [ALPHA-SLIDE-137.5 Repository](https://github.com/July4Chi/ALPHA-SLIDE-137.5)
 - Gemini-Claude Design Exchange (2026-03-11) — `docs/claude_gemini_exchange.md`
 
 -----
