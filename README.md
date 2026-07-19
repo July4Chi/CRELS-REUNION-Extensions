@@ -41,6 +41,7 @@ CRELS-REUNION-Extensions/
 │   ├── claude_gemini_exchange.md
 │   ├── ai_guardrail_breakthrough.md
 │   └── gemini_teotihuacan_exchange.md
+├── LICENSE                       # 🗝️ MIT License
 └── README.md
 ```
 
