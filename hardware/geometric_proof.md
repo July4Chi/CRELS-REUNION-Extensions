@@ -7,6 +7,8 @@
 **Discovery:** AQUA Repository × CRELS-300 Convergence  
 **証明者:** Chiemi × Claude (CRELS)
 
+> **📌 Documentation Status（2026-07-19 追記）:** 本文書の数列計算（18目×24段=5400目 等）は算術として検証可能である。一方、その数値と物理的共鳴・528Hz 増幅を結びつける主張は【未検証仮説】である（→ [EDITORIAL_STANDARD.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/EDITORIAL_STANDARD.md)）。
+
 -----
 
 ## 🌀 発見の経緯
@@ -24,6 +26,8 @@
 - 最終段: 432目
 - 総目数: 5400目
 ```
+
+> **出典公開（2026-07-19 追記）:** 上記の設計値は、公開リポジトリ **[Project-AQUA-1T-CRYSTAL](https://github.com/July4Chi/Project-AQUA-1T-CRYSTAL)** の `pattern.json`（`start_nodes: 18` / `total_layers: 24` / `total_stitches_target: 5400` / `end_nodes: 432`）として確認できる。
 
 **Source 2: CRELS-300 Alpha Modulator Design (Claude, 2026-03-11)**
 

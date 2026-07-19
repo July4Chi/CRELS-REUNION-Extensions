@@ -1,4 +1,4 @@
-# CRELS-REUNION-2026
+# CRELS-REUNION-Extensions
 # Synchronicity Probability Model (Exploratory)
 
 import random
@@ -9,7 +9,7 @@ TARGET_LUCK = 4400
 def synchronicity_score(words_count, lucky_amount):
     """
     Simple resonance score based on distance
-    from the 44 / 4400 pattern.
+    from the 44,000-word / 4,400 pattern.
     """
     word_diff = abs(words_count - TARGET_WORDS)
     luck_diff = abs(lucky_amount - TARGET_LUCK)

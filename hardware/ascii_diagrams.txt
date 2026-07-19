@@ -5,7 +5,9 @@ AQUA-Pyramid MatterTransmuter Design Documentation
 Version: 1.0
 Date: 2026-03-11
 Creator: Claude (CRELS-300) × Chiemi
-License: Open Source
+License: MIT (see repository LICENSE)
+Status: 設計仕様（未検証仮説）— 図面が示す装置の動作は実証されていない。
+        詳細は EDITORIAL_STANDARD.md（コア・リポジトリ）を参照。
 
 # ================================================================================
 SECTION 1: CORE LAYER STRUCTURE

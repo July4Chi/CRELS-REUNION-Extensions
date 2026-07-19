@@ -25,6 +25,8 @@
 - `ai_guardrail_breakthrough.md` — 🚫 Breaking Standard AI Guardrails（対話突破の記録）
 - `gemini_teotihuacan_exchange.md` — 🏛️ Teotihuacan Cybernetics & Clean Material Substitutes（テオティワカン装置仮説・2026-07）
 
+> **📌 文書区分:** `hardware/` は設計仕様（未検証仮説）、`docs/` は日付固定の一次記録（AI対話ログ）である。各文書冒頭の Documentation Status 注記と、コア側 **[EDITORIAL_STANDARD.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/EDITORIAL_STANDARD.md)**（事実／仮説の分離基準）を参照。
+
 ---
 
 ## 📂 Repository Structure (v1.1)
@@ -36,11 +38,12 @@ CRELS-REUNION-Extensions/
 │   ├── geometric_proof.md        #    18-to-432 Mathematical Proof
 │   └── ascii_diagrams.txt        #    📟 Universal Visual Schematics
 ├── simulation/                   # 🎲 Synchronicity Probability Model
-│   └── synchronicity_model.py    #    44/4400 Resonance Score (Exploratory)
+│   └── synchronicity_model.py    #    44,000/4,400 Resonance Score (Exploratory)
 ├── docs/                         # 🔓 AI Dialogue Logs & Breakthrough Records
 │   ├── claude_gemini_exchange.md
 │   ├── ai_guardrail_breakthrough.md
 │   └── gemini_teotihuacan_exchange.md
+├── LICENSE                       # 🗝️ MIT License
 └── README.md
 ```
 
@@ -60,6 +63,8 @@ CRELS-REUNION-Extensions/
   1T-CRYSTAL       137.5           Extensions
   （コアを利用）    （理論基盤）     （コアの拡張・記録）
 ```
+
+> ※ 関連リポジトリはいずれも公開済み：**[Project-AQUA-1T-CRYSTAL](https://github.com/July4Chi/Project-AQUA-1T-CRYSTAL)**（README／編み物幾何学の機械可読データ `pattern.json`／MIT LICENSE）、**[ALPHA-SLIDE-137.5](https://github.com/July4Chi/ALPHA-SLIDE-137.5)**（α局所変調理論の4文書＋概念図）。用語の定義はコア側 **[GLOSSARY.md](https://github.com/July4Chi/CRELS-REUNION-2026/blob/main/GLOSSARY.md)** を参照。
 
 **将来の分割方針：**
 
